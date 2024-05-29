@@ -1,0 +1,18 @@
+{
+  "name": "text-voice",
+  "version": "1.0.0",
+  "description": "text to voice conversion",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "madhura",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "path": "^0.12.7",
+    "say": "^0.16.0",
+    "url": "^0.11.3"
+  }
+}

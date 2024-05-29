@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(102, 13, 100);
+}
+.text{
+    color: antiquewhite;
+    text-align: center;
+}
+#text-in{
+    height: 450px;
+    width: 800px;
+    background-color: rgb(247, 237, 224);   
+}
+button{
+    font-weight:bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:xx-large;
+}
+.btn{
+    
+    font-size: 18px;
+    width: 120px;
+    color: rgb(141, 25, 121);
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.convert{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.choice{
+    display: flex;
+}
+
+
